@@ -8,7 +8,7 @@ For this assignment, you'll create some initial plans for your project.
 
 ### Wireframes
 
-![This is an image](images/IMG_6949)
+![This is an image](images/IMG_6949.HEIC)
 
 ### Project Tracker
 
