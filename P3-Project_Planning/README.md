@@ -8,9 +8,9 @@ For this assignment, you'll create some initial plans for your project.
 
 ### Wireframes
 
-![Home page/search](images/IMG_6951.pdf)
+![Home page/search](images/IMG_6949.pdf)
 ![User login](images/IMG_6950.pdf)
-![User signup](images/IMG_6949.pdf)
+![User signup](images/IMG_6951.pdf)
 
 ### Project Tracker
 
