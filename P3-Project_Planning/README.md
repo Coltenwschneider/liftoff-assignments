@@ -8,12 +8,14 @@ For this assignment, you'll create some initial plans for your project.
 
 ### Wireframes
 
-![This is an image](images/IMG_6951.pdf)
+![Home page/search](images/IMG_6951.pdf)
+![User login](images/IMG_6950.pdf)
+![User signup](images/IMG_6949.pdf)
 
 ### Project Tracker
 
-Include a link to your public Trello board. Be sure you have user stories added for at least your first 2-week sprint.
+[Trello Board](https://trello.com/b/iHrdB1Uk/project)
 
 ### Project Repo Link
 
-Include a link to your project on GitHub.
+[Group Project Repository](https://github.com/LaunchCodeLiftoffProjects/santiago-group)
